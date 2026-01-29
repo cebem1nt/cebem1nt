@@ -1,5 +1,5 @@
 ```
-$ cowsay -r "idk what to tell about myself"
+
  _______________________________
 < idk what to tell about myself >
  -------------------------------
